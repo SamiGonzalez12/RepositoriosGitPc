@@ -1,2 +1,1 @@
-# RepositoriosGitPc
-Configurado con Git PC
+Crear gitHub pc 
